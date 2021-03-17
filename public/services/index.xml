@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Demonar Research</title>
-    <link>www.example.com/services/</link>
-    <description>Recent content in Services on Demonar Research</description>
+    <title>Consultancy Servicess on Demonar Africa Solutions Ltd</title>
+    <link>https://demonar.netlify.app/services/</link>
+    <description>Recent content in Consultancy Servicess on Demonar Africa Solutions Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://demonar.netlify.app/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissertation Guidance</title>
-      <link>www.example.com/services/dissertation-guidance/</link>
+      <link>https://demonar.netlify.app/services/consultancy-services/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.example.com/services/dissertation-guidance/</guid>
+      <guid>https://demonar.netlify.app/services/consultancy-services/</guid>
       <description>We offer professional dissertation guidance at Masters and PhD level.
 Basic Thesis and Dissertation Differences The main difference between a thesis and a dissertation is when they are completed. The thesis is a project that marks the end of a master&amp;rsquo;s program, while the dissertation occurs during doctoral study. The two are actually quite different in their purpose, as well. A thesis is a compilation of research that proves you are knowledgeable about the information learn throughout your graduate program.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>www.example.com/services/research/</link>
+      <link>https://demonar.netlify.app/services/research/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>www.example.com/services/research/</guid>
+      <guid>https://demonar.netlify.app/services/research/</guid>
       <description>We are engaged in high level systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.</description>
     </item>
     
     <item>
-      <title>Data analysis</title>
-      <link>www.example.com/services/data-analysis/</link>
+      <title>Construction Management</title>
+      <link>https://demonar.netlify.app/services/construction-managemet/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.example.com/services/data-analysis/</guid>
-      <description>We deifine data analysis as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis.</description>
+      <guid>https://demonar.netlify.app/services/construction-managemet/</guid>
+      <description>The project is divided into several WBS(work breakdown structure) that are fully managed and coordinated by us. This option yields the client significant savings and flexibility with higher level of control on costs, time and quality.</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
-      <link>www.example.com/services/business-advisory/</link>
+      <title>Project management</title>
+      <link>https://demonar.netlify.app/services/project-management/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/services/business-advisory/</guid>
-      <description>We as the best business advisers analyse problems and potential risks businesses are facing and help provide advice. Clients have an opportunity to become technology advisers, as well as business advisers. This sector gives you the opportunity to work within accountancy firms of all sizes and across many industries.</description>
+      <guid>https://demonar.netlify.app/services/project-management/</guid>
+      <description>Depending upon the project requirement, we establish the procedure for the appointment of architect/engineer to produce the design and a main contractor to carry out the construction.
+We set the strategy and manage the activities from pre-construction through completion and act as the single point of contract with the owner.</description>
     </item>
     
   </channel>

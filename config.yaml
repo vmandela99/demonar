@@ -1,14 +1,14 @@
 baseURL: https://demonar.netlify.app/
 languageCode: en-us
-title: Demonar Research
+title: Demonar Africa Solutions Ltd
 theme: hugo-hero-theme
 params:
   google_analytics_id: ''
   homepage_meta_tags:
-    meta_description: Demonar is a research and data analysis based company. It contains content types for both quantitative and qualitative research studies.
-    meta_og_description: Demonar is a research and data analysis based company. It contains content types for both quantitative and qualitative research studies.
+    meta_description: DAS ltd  is an organisation formed to provide End to End project contracting, consulting and management services that form the basic building blocks required for the implementation of a project.
+    meta_og_description: DAS ltd  is an organisation formed to provide End to End project contracting, consulting and management services that form the basic building blocks required for the implementation of a project.
     meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
-    meta_og_title: Demonar Research
+    meta_og_title: Demonar Africa Solutions Ltd
     meta_og_type: website
     meta_og_url: https://hugo-hero.netlify.app
     meta_twitter_card: summary

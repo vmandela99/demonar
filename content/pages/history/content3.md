@@ -8,4 +8,4 @@ title: Giving Back
 weight: 3
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+We have our head quarters in Nairobi. We are located in Central business district (CBD).

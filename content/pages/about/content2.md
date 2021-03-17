@@ -6,4 +6,4 @@ title: Integrity & Performance
 weight: 2
 ---
 
-Our work is top of the notch. We make sure we deliver high level performance and quality work that ranks top.
+DAS ltd staff members will strive to be professional, honest, fair and ethical at all times.

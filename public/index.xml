@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Demonar Research</title>
-    <link>www.example.com/</link>
-    <description>Recent content in Home on Demonar Research</description>
+    <title>Home on Demonar Africa Solutions Ltd</title>
+    <link>https://demonar.netlify.app/</link>
+    <description>Recent content in Home on Demonar Africa Solutions Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://demonar.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissertation Guidance</title>
-      <link>www.example.com/services/dissertation-guidance/</link>
+      <link>https://demonar.netlify.app/services/consultancy-services/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.example.com/services/dissertation-guidance/</guid>
+      <guid>https://demonar.netlify.app/services/consultancy-services/</guid>
       <description>We offer professional dissertation guidance at Masters and PhD level.
 Basic Thesis and Dissertation Differences The main difference between a thesis and a dissertation is when they are completed. The thesis is a project that marks the end of a master&amp;rsquo;s program, while the dissertation occurs during doctoral study. The two are actually quite different in their purpose, as well. A thesis is a compilation of research that proves you are knowledgeable about the information learn throughout your graduate program.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>www.example.com/2020/12/01/hello-r-markdown/</link>
+      <link>https://demonar.netlify.app/2020/12/01/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>www.example.com/2020/12/01/hello-r-markdown/</guid>
+      <guid>https://demonar.netlify.app/2020/12/01/hello-r-markdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -30,48 +30,51 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>About</title>
-      <link>www.example.com/about/</link>
+      <link>https://demonar.netlify.app/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>www.example.com/about/</guid>
+      <guid>https://demonar.netlify.app/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>www.example.com/history/</link>
+      <link>https://demonar.netlify.app/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>www.example.com/history/</guid>
-      <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-    Our work is top of the notch. We make sure we deliver high level performance and quality work that ranks top.</description>
+      <guid>https://demonar.netlify.app/history/</guid>
+      <description>About Heading  DAS ltd will deliver its mandate with the main objective of satisfying its clients.
+    DAS ltd staff members will strive to be professional, honest, fair and ethical at all times.
+    We have our head quarters in Nairobi. We are located in Central business district (CBD).
+Contact Us     </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>www.example.com/services/research/</link>
+      <link>https://demonar.netlify.app/services/research/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>www.example.com/services/research/</guid>
+      <guid>https://demonar.netlify.app/services/research/</guid>
       <description>We are engaged in high level systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.</description>
     </item>
     
     <item>
-      <title>Data analysis</title>
-      <link>www.example.com/services/data-analysis/</link>
+      <title>Construction Management</title>
+      <link>https://demonar.netlify.app/services/construction-managemet/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.example.com/services/data-analysis/</guid>
-      <description>We deifine data analysis as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis.</description>
+      <guid>https://demonar.netlify.app/services/construction-managemet/</guid>
+      <description>The project is divided into several WBS(work breakdown structure) that are fully managed and coordinated by us. This option yields the client significant savings and flexibility with higher level of control on costs, time and quality.</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
-      <link>www.example.com/services/business-advisory/</link>
+      <title>Project management</title>
+      <link>https://demonar.netlify.app/services/project-management/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/services/business-advisory/</guid>
-      <description>We as the best business advisers analyse problems and potential risks businesses are facing and help provide advice. Clients have an opportunity to become technology advisers, as well as business advisers. This sector gives you the opportunity to work within accountancy firms of all sizes and across many industries.</description>
+      <guid>https://demonar.netlify.app/services/project-management/</guid>
+      <description>Depending upon the project requirement, we establish the procedure for the appointment of architect/engineer to produce the design and a main contractor to carry out the construction.
+We set the strategy and manage the activities from pre-construction through completion and act as the single point of contract with the owner.</description>
     </item>
     
   </channel>

@@ -8,4 +8,4 @@ title: Giving Back
 weight: 3
 ---
 
-We have our head quarters in Nairobi. We are located in Central business district (CBD), at Old Norwich towers, 2nd floor.
+We have our head quarters in Nairobi. We are located in Central business district (CBD).
