@@ -1,0 +1,36 @@
+baseURL: www.example.com
+languageCode: en-us
+title: Demonar Research
+theme: hugo-hero-theme
+params:
+  google_analytics_id: ''
+  homepage_meta_tags:
+    meta_description: Demonar is a research and data analysis based company. It contains content types for both quantitative and qualitative research studies.
+    meta_og_description: Demonar is a research and data analysis based company. It contains content types for both quantitative and qualitative research studies.
+    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
+    meta_og_title: Demonar Research
+    meta_og_type: website
+    meta_og_url: https://hugo-hero.netlify.app
+    meta_twitter_card: summary
+    meta_twitter_creator: '@demonar'
+    meta_twitter_site: '@demonar'
+menu:
+  main:
+    - name: Services
+      url: /services/
+      weight: 1
+    - name: Work
+      url: /work/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
+    - name: History
+      url: /history/
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+permalinks:
+  pages: /:filename/
+  post: /:year/:month/:day/:slug/
