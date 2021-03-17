@@ -1,4 +1,4 @@
-baseURL: www.example.com
+baseURL: https://demonar.netlify.app/
 languageCode: en-us
 title: Demonar Research
 theme: hugo-hero-theme
